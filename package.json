@@ -4,11 +4,10 @@
   "keywords": "electron screenshots testing atom-shell",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jameskyburz/electron-screenshot"
+    "url": "git://github.com/isaccanedo/electron-screenshot"
   },
   "author": {
-    "name": "James Kyburz",
-    "email": "james.kyburz@gmail.com"
+    "name": "Isac Canedo"
   },
   "main": "index.js",
   "version": "1.0.5",
